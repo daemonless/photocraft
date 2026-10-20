@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-18T07:28:29Z",
+  "generated": "2026-10-20T22:03:31Z",
   "image": "photocraft",
   "tags": {
     "latest-amd64": {
-      "app_version": "0.10.0",
+      "app_version": "0.11.1",
       "arch": "amd64",
-      "generated": "2026-10-18T07:27:23Z",
+      "generated": "2026-10-20T22:02:44Z",
       "packages": {
         "dotnet": [],
         "freebsd": [
@@ -196,7 +196,7 @@
               "BSD2CLAUSE"
             ],
             "name": "FreeBSD-runtime",
-            "version": "15.1p4"
+            "version": "15.1p5"
           },
           {
             "licenses": [
@@ -245,7 +245,7 @@
               "PD"
             ],
             "name": "FreeBSD-zoneinfo",
-            "version": "15.1p4"
+            "version": "15.1p5"
           },
           {
             "licenses": [
