@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-24T09:15:01Z",
+  "generated": "2026-10-25T18:57:06Z",
   "image": "photocraft",
   "tags": {
     "latest-amd64": {
-      "app_version": "0.15.1",
+      "app_version": "0.16.0",
       "arch": "amd64",
-      "generated": "2026-10-24T09:14:30Z",
+      "generated": "2026-10-25T18:56:24Z",
       "packages": {
         "dotnet": [],
         "freebsd": [
