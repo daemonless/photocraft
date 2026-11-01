@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-31T08:39:55Z",
+  "generated": "2026-11-01T23:39:57Z",
   "image": "photocraft",
   "tags": {
     "latest-aarch64": {
-      "app_version": "0.18.0",
+      "app_version": "0.19.0",
       "arch": "aarch64",
-      "generated": "2026-10-31T08:39:22Z",
+      "generated": "2026-11-01T23:39:28Z",
       "packages": {
         "dotnet": [],
         "freebsd": [
@@ -189,7 +189,7 @@
               "BSD2CLAUSE"
             ],
             "name": "FreeBSD-runtime",
-            "version": "15.1p5"
+            "version": "15.1p6"
           },
           {
             "licenses": [
