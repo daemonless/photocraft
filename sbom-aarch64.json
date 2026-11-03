@@ -1,11 +1,11 @@
 {
-  "generated": "2026-11-01T23:39:57Z",
+  "generated": "2026-11-03T10:30:06Z",
   "image": "photocraft",
   "tags": {
     "latest-aarch64": {
-      "app_version": "0.19.0",
+      "app_version": "0.20.1",
       "arch": "aarch64",
-      "generated": "2026-11-01T23:39:28Z",
+      "generated": "2026-11-03T10:29:22Z",
       "packages": {
         "dotnet": [],
         "freebsd": [
@@ -252,7 +252,7 @@
               "MPL20"
             ],
             "name": "ca_root_nss",
-            "version": "3.131"
+            "version": "3.132"
           },
           {
             "licenses": [
